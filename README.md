@@ -1,2 +1,1 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+https://asma2442.github.io/Class-27-C1-2/
